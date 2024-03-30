@@ -40,7 +40,6 @@ const febHolidays = [
 "Rendo Bhaagamundhani",
 "RChaati Cheppina",
 "Chinni Praanamaa",
-    "But anyways,",
     "Happy 8th month my sweet ",
     "little girlfriend(wife🤭)",
     "I Love You So much❤️",
@@ -48,11 +47,7 @@ const febHolidays = [
 "of losing you.",
 "I fear that the dreams",
 "that I have seen with you", 
-"will never come true",
-"I am sorry for ",
-"last 2 days for being",
-"rude and not understanding you"
-
+"will never come true"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
