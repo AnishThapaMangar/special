@@ -42,12 +42,7 @@ const febHolidays = [
 "Chinni Praanamaa",
     "Happy 8th month my sweet ",
     "little girlfriend(wife🤭)",
-    "I Love You So much❤️",
-    "I am always afraid",
-"of losing you.",
-"I fear that the dreams",
-"that I have seen with you", 
-"will never come true"
+    "I Love You So much❤️"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
